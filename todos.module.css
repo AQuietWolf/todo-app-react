@@ -1,0 +1,9 @@
+.todos{
+    width: 60%;
+    background-color: peru;
+    color: black;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    overflow: auto;
+    height: 60vh;
+}

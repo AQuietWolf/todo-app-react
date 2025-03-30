@@ -1,0 +1,21 @@
+.todo{
+    background-color: bisque;
+    margin: 0.5rem;
+    border-radius: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem;
+}
+.todo:hover{
+    background-color: white;
+}
+.todo p{
+    opacity: 0.6;
+}
+.btn{
+    border: none;
+    background-color: transparent;
+    color: black;
+    cursor: pointer;
+}
